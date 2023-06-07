@@ -213,7 +213,7 @@ header .header_right p{
 }
 .decriptions .content p{
     font-family: 'Gilroy-500',sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: rgb(23, 30, 48);
     opacity: 0.6;
@@ -222,7 +222,7 @@ header .header_right p{
 .decriptions .services{
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(204px, 1fr));
     gap: 16px;
     padding-bottom: 24px;
 }
@@ -254,7 +254,7 @@ header .header_right p{
     height: 40px;
 }
 .decriptions .products .product p{
-    font-size: 12px;
+    font-size: 13px;
     color: rgb(15, 25, 56);
     margin-top: 12px;
     font-weight: 600;
@@ -274,7 +274,7 @@ header .header_right p{
 .top_picks_area .heading h1{
     font-style: normal;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 30px;
     line-height: 42px;
     color: rgb(15, 25, 56);
     padding-bottom: 8px;
@@ -327,7 +327,7 @@ header .header_right p{
 }
 .app_links .apps_details .links h4{
     font-style: normal;
-    font-size: 20px;
+    font-size: 26px;
     margin-bottom: 16px;
     opacity: 0.9;
 }
@@ -337,8 +337,8 @@ header .header_right p{
     margin-bottom: 16px;
 }
 .app_links .apps_details .links a img{
-    width: 110px;
-    height: 30px;
+    width: 121px;
+    height: 35px;
     margin-bottom: 12px;
 }
 .delivery_area{
